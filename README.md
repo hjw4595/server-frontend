@@ -1,2 +1,4 @@
 # server-frontend
-react
+apollo client
+Hook
+Authorization Routes
